@@ -1,0 +1,4 @@
+bin_PROGRAMS=helloworld1 helloworld2
+helloworld1_SOURCES=main_helloworld_1.c
+helloworld2_SOURCES=main_helloworld_2.c
+
